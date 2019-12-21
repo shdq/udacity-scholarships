@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 3
+
+Reviewing lesson 8: Tagging, branching and merging
+
+**Link of the day**
+
+LearnGitBranching is a git repository visualizer, sandbox, and a series of educational tutorials and challenges. https://learngitbranching.js.org/
+
+**Quote of the day:**
+
+*"Truth can only be found in one place: the code."* ― Robert C. Martin
+
+---
+
 ### Day 2
 
 Reviewing lessons 5 and 6: Repo history, adding commits to a repo

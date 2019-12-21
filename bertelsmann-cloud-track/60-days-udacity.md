@@ -2,7 +2,7 @@
 
 ### Day 3
 
-Reviewing lesson 8: Tagging, branching and merging
+Reviewing lessons 7 and 8: Tagging, branching and merging. Undoing changes.
 
 **Link of the day**
 

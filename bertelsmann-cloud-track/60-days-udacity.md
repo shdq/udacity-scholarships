@@ -6,7 +6,7 @@ Reviewing lessons 9 and 10: Working with remote repos, working with another dev'
 
 **Link of the day**
 
-A great tutorial to make a pull request on Github https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+A great tutorial about how to make a pull request on Github https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
 
 **Quote of the day:**
 

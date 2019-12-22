@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 4
+
+Reviewing lessons 9 and 10: Working with remote repos, working with another dev's repo.
+
+**Link of the day**
+
+A great tutorial to make a pull request on Github https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+
+**Quote of the day:**
+
+*"There are only two hard things in Computer Science: cache invalidation and naming things."* ― Phil Karlton
+
+---
+
 ### Day 3
 
 Reviewing lessons 7 and 8: Tagging, branching and merging. Undoing changes.

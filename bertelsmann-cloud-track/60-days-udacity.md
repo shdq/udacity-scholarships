@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 5
+
+Reviewing lessons 11: Syncing remote repos.
+
+**Link of the day**
+
+A curated list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev https://free-for.dev/
+
+**Quote of the day:**
+
+*"The value of a prototype is in the education it gives you, not in the code itself."* ― Alan Cooper
+
+---
+
 ### Day 4
 
 Reviewing lessons 9 and 10: Working with remote repos, working with another dev's repo.

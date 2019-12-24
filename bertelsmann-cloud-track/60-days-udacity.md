@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 6
+
+Reviewing lesson 12: Cloud computing.
+
+**Link of the day**
+
+Free online self-paced AWS courses from Amazon https://www.aws.training/LearningLibrary?filters=language%3A1&search=&tab=digital_courses
+
+**Quote of the day:**
+
+*"If having a coffee in the morning doesn't wake you up, try deleting a table in a production database instead."* ― Juozas Kaziukenas
+
+---
+
 ### Day 5
 
 Reviewing lessons 11: Syncing remote repos.

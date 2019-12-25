@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 7
+
+I got hands-on experience with AWS at lesson 13.
+
+**Link of the day**
+
+Step by step guide for DevOps or any other Operations Role https://roadmap.sh/devops
+
+**Quote of the day:**
+
+*"A good programmer is someone who always looks both ways before crossing a one-way street."*  — Doug Linder
+
+---
+
 ### Day 6
 
 Reviewing lesson 12: Cloud computing.

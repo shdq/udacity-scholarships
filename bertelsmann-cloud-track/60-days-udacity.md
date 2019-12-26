@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 8
+
+In lesson 14 I studied about content delivery network and all kinds of storage available in AWS.
+
+**Link of the day**
+
+A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. https://github.com/donnemartin/awesome-aws
+
+**Quote of the day:**
+
+*"First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack."* — George Carrette
+
+---
+
 ### Day 7
 
 I got hands-on experience with AWS at lesson 13.

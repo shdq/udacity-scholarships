@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 9
+
+Security is important as it was shown in lesson 15.
+
+**Link of the day**
+
+A roadmap for Node.js security by Google developers and other contributors https://nodesecroadmap.fyi/
+
+**Quote of the day:**
+
+*"One person's paranoia is another person's engineering redundancy."* — Marcus J. Ranum
+
+---
+
 ### Day 8
 
 In lesson 14 I studied about content delivery network and all kinds of storage available in AWS.

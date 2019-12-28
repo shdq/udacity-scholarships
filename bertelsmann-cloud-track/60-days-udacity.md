@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 10
+
+I studied lesson 16 about Networking. One of the most hard things for me is to configure networks properly.
+
+**Link of the day**
+
+Ace the interview process at top tech companies with this collection of guides. https://www.pathrise.com/guides/how-to-get-a-job-at-company
+
+**Quote of the day:**
+
+*"Good code is its own best documentation."* — Steve McConnell
+
+---
+
 ### Day 9
 
 Security is important as it was shown in lesson 15.

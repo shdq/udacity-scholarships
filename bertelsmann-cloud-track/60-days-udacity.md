@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 11
+
+Containers! I like the concept a lot, finally I got there in the lesson 17.
+
+**Link of the day**
+
+A Full DevOps Course on How to Run Applications in Containers https://youtu.be/fqMOX6JJhGo
+
+**Quote of the day:**
+
+*"Any code of your own that you haven't looked at for six or more months might as well have been written by someone else."* — Eagleson's Law
+
+---
+
 ### Day 10
 
 I studied lesson 16 about Networking. One of the most hard things for me is to configure networks properly.

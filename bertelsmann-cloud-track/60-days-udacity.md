@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 12
+
+Lesson 18 AWS Management. Infrastructure as code lets you store your configs in version control systems which is a huge advantage.
+
+**Link of the day**
+
+Full-time remote study through pair programming. You don’t pay anything until you get a job! https://www.microverse.org/
+
+**Quote of the day:**
+
+*"No amount of testing can prove a software right. A single test can prove a software wrong."* — Amir Ghahrai
+
+---
+
 ### Day 11
 
 Containers! I like the concept a lot, finally I got there in the lesson 17.

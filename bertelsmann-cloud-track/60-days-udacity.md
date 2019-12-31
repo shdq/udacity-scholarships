@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 13
+
+I've started with the lesson 19 AWS Management through API. Finally coding experience!
+
+**Link of the day**
+
+Pramp is a free, online peer-2-peer platform for practicing technical interviews. I have unlimited credits, by using this invite link you have extra credits https://www.pramp.com/invt/zp2zZzWPGxFWGr5yLnQg
+
+**Quote of the day:**
+
+*"Technical skill is mastery of complexity, while creativity is mastery of simplicity."* — Christopher Zeeman
+
+---
+
 ### Day 12
 
 Lesson 18 AWS Management. Infrastructure as code lets you store your configs in version control systems which is a huge advantage.

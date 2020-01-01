@@ -1,12 +1,26 @@
 # 60 Days of Udacity Challenge
 
+### Day 14
+
+Finished lesson 19 about CloudFormation.
+
+**Link of the day**
+
+Carefully curated content to help you ace your next technical interview https://yangshun.github.io/tech-interview-handbook/introduction
+
+**Quote of the day:**
+
+*"What new technology does is create new opportunities to do a job that customers want done."* — Tim O’Reilly
+
+---
+
 ### Day 13
 
 I've started with the lesson 19 AWS Management through API. Finally coding experience!
 
 **Link of the day**
 
-Pramp is a free, online peer-2-peer platform for practicing technical interviews. I have unlimited credits, by using this invite link you have extra credits https://www.pramp.com/invt/zp2zZzWPGxFWGr5yLnQg
+Pramp is a free, online peer-2-peer platform for practicing technical interviews. I have unlimited credits, by using this invite link you'll have extra credits https://www.pramp.com/invt/zp2zZzWPGxFWGr5yLnQg
 
 **Quote of the day:**
 

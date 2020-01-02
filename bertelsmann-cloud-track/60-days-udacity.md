@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 15
+
+I've started with the Intel Edge AI Foundation Course.
+
+**Link of the day**
+
+A web app with binaural sounds to improve focus and productivity https://spaces.fm/
+
+**Quote of the day:**
+
+*"Programming isn't about what you know; it's about what you can figure out."* — Chris Pine
+
+---
+
 ### Day 14
 
 Finished lesson 19 about CloudFormation.

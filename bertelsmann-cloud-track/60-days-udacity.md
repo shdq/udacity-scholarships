@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 16
+
+Lesson 20 Infrastructure diagrams.
+
+**Link of the day**
+
+Remotify is a job board with a focus on remote hiring. https://remotify.me/
+
+**Quote of the day:**
+
+*"The only way to learn a new programming language is by writing programs in it."* — Dennis Ritchie
+
+---
+
 ### Day 15
 
 I've started with the Intel Edge AI Foundation Course.

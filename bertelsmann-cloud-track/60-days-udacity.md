@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 17
+
+Keep working on lesson 20, diagramming AWS.
+
+**Link of the day**
+
+A one-click database. No server required. https://easydb.io/
+
+**Quote of the day:**
+
+*"Testing leads to failure, and failure leads to understanding."* — Burt Rutan
+
+---
+
 ### Day 16
 
 Lesson 20 Infrastructure diagrams.

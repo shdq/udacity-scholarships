@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 18
+
+Lesson 2 OpenVINO and Pre-Trained Models.
+
+**Link of the day**
+
+The resume builder with free templates https://app.enhancv.com/resume/new
+
+**Quote of the day:**
+
+*"The best error message is the one that never shows up."* — Thomas Fuchs
+
+---
+
 ### Day 17
 
 Keep working on lesson 20, diagramming AWS.

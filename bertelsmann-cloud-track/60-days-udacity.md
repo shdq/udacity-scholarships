@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 19
+
+Lesson 21 Networking infrastructure.
+
+**Link of the day**
+
+A simple git cheatsheet https://gitsheet.wtf/
+
+**Quote of the day:**
+
+*"So much complexity in software comes from trying to make one thing do two things."* — Ryan Singer
+
+---
+
 ### Day 18
 
 Lesson 2 OpenVINO and Pre-Trained Models.

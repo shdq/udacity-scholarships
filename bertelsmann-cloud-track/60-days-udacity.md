@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 20
+
+Finished Lesson 21.
+
+**Link of the day**
+
+Just for fun! Watch Netflix at work by making it look like you’re on a conference call https://netflixhangouts.com/
+
+**Quote of the day:**
+
+*"There are only two kinds of (programming) languages: the ones people complain about and the ones nobody uses."* — Bjarne Stroustrup
+
+---
+
 ### Day 19
 
 Lesson 21 Networking infrastructure.

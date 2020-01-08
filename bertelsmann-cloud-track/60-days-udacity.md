@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 21
+
+I've started with the lesson 22 «Servers and secutiry groups».
+
+**Link of the day**
+
+Freely available programming books https://ebookfoundation.github.io/free-programming-books/free-programming-books.html
+
+**Quote of the day:**
+
+*"Only drug dealers and software companies call their customers «users»"* — Edward Tufte
+
+---
+
 ### Day 20
 
 Finished Lesson 21.

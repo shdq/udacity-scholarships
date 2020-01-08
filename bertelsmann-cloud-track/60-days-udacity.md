@@ -2,7 +2,7 @@
 
 ### Day 21
 
-I've started with the lesson 22 «Servers and secutiry groups».
+I've started with the lesson 22 «Servers and security groups».
 
 **Link of the day**
 

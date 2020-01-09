@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 22
+
+I've finished with the lesson 22 today!
+
+**Link of the day**
+
+A guideline on how to have successful code reviews https://google.github.io/eng-practices/review/
+
+**Quote of the day:**
+
+*"Don't use a comment when you can use a function or a variable"* — Robert C. Martin
+
+---
+
 ### Day 21
 
 I've started with the lesson 22 «Servers and security groups».

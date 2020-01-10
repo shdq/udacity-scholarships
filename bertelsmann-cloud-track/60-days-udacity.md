@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 23
+
+Reviewed lesson 21 again, tried my own scripts and templates to create resouces in AWS.
+
+**Link of the day**
+
+HUUUUGE resource with free audiobooks, podcasts, online courses, books and etc. http://www.openculture.com/
+
+**Quote of the day:**
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
 ### Day 22
 
 I've finished with the lesson 22 today!

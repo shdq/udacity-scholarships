@@ -1,8 +1,22 @@
 # 60 Days of Udacity Challenge
 
+### Day 24
+
+I've started with the lesson 23 Storage and Databases.
+
+**Link of the day**
+
+If you haven't heard of MOOCs, it stands for Massive Open Online Courses that are free online courses available for anyone to enroll. https://www.mooc.org/
+
+**Quote of the day:**
+
+*"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code."* — Dan Salomon
+
+---
+
 ### Day 23
 
-Reviewed lesson 21 again, tried my own scripts and templates to create resouces in AWS.
+Reviewed lesson 21 again, tried my own scripts and templates to create resources in AWS.
 
 **Link of the day**
 

@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 25
+
+I went through S3 and CloudFormation in lesson 23.
+
+**Link of the day**
+
+Algorithms and data structures implemented in JavaScript with explanations and links to further readings https://github.com/trekhleb/javascript-algorithms
+
+**Quote of the day:**
+
+*"Knowledge is power."* — Francis Bacon
+
+---
+
 ### Day 24
 
 I've started with the lesson 23 Storage and Databases.

@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 26
+
+I've been working on my first article, it isn't easy as it seems to be.
+
+**Link of the day**
+
+DevOps Questions & Exercises https://github.com/bregman-arie/devops-exercises
+
+**Quote of the day:**
+
+*"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+
+---
+
 ### Day 25
 
 I went through S3 and CloudFormation in lesson 23.

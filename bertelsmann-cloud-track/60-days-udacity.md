@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 27
+
+Rewrote almost the whole article and finished with lesson 23.
+
+**Link of the day**
+
+Grammarly is a digital writing tool using artificial intelligence and natural language processing to help you write https://grammarly.com
+
+**Quote of the day:**
+
+*"Start writing, no matter what. The water does not flow until the faucet is turned on."* — Louis L’Amour
+
+---
+
 ### Day 26
 
 I've been working on my first article, it isn't easy as it seems to be.

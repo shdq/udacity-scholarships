@@ -1,5 +1,17 @@
 # 60 Days of Udacity Challenge
 
+### Day 28
+
+Hooray! I've finished the Cloud DevOps course today and going to work on Edge AI course.
+
+**Link of the day**
+
+Simple, private file sharing from the makers of Firefox https://send.firefox.com
+
+**Quote of the day:**
+
+*"Fix the cause, not the symptom."* — Steve Maguire
+
 ### Day 27
 
 Rewrote almost the whole article and finished with lesson 23.

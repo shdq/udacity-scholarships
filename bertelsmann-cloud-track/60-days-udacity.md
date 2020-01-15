@@ -12,6 +12,8 @@ Simple, private file sharing from the makers of Firefox https://send.firefox.com
 
 *"Fix the cause, not the symptom."* — Steve Maguire
 
+---
+
 ### Day 27
 
 Rewrote almost the whole article and finished with lesson 23.

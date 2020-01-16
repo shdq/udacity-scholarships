@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 29
+
+Studying the Edge AI course is tough for me. A totally different field that I'm not familiar with.
+
+**Link of the day**
+
+RegExr is an online tool to learn, build, & test Regular Expressions https://regexr.com/
+
+**Quote of the day:**
+
+*"Simplicity is the soul of efficiency."* — Austin Freeman
+
+---
+
 ### Day 28
 
 Hooray! I've finished the Cloud DevOps course today and going to work on Edge AI course.

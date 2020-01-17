@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 30
+
+Half of the challenge road passed! Finished lesson 2 of Intel Edge AI course.
+
+**Link of the day**
+
+A polyglot web converter. https://transform.tools/
+
+**Quote of the day:**
+
+*"Before software can be reusable it first has to be usable."* — Ralph Johnson
+
+---
+
 ### Day 29
 
 Studying the Edge AI course is tough for me. A totally different field that I'm not familiar with.

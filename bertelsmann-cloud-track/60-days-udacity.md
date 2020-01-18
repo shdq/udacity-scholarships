@@ -1,8 +1,24 @@
 # 60 Days of Udacity Challenge
 
+### Day 31
+
+Cloud DevOps: practicing upload to AWS S3 with JavaScript.
+
+Open AI: I've started with lesson 3.
+
+**Link of the day**
+
+A curated collection of common interview questions to help you prepare for your next interview https://30secondsofinterviews.org/
+
+**Quote of the day:**
+
+*"Documentation is a love letter that you write to your future self."* — Damian Conway
+
+---
+
 ### Day 30
 
-Half of the challenge road passed! Finished lesson 2 of Intel Edge AI course.
+Half of the challenge road passed! Finished lesson 2 of the Intel Edge AI course.
 
 **Link of the day**
 

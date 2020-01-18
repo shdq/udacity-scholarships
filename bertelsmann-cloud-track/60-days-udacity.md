@@ -2,9 +2,9 @@
 
 ### Day 31
 
-Cloud DevOps: practicing upload to AWS S3 with JavaScript.
+Cloud DevOps: practising upload to AWS S3 with JavaScript.
 
-Open AI: I've started with lesson 3.
+Edge AI: I've started with lesson 3.
 
 **Link of the day**
 

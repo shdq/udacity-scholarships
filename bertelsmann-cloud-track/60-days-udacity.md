@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 32
+
+Edge AI: Finished lesson 3.
+
+**Link of the day**
+
+Serverless DevOps Workshop https://github.com/aws-samples/aws-serverless-workshops/tree/master/DevOps
+
+**Quote of the day:**
+
+*"In programming the hard part isn’t solving problems, but deciding what problems to solve."* — Paul Graham
+
+---
+
 ### Day 31
 
 Cloud DevOps: practising upload to AWS S3 with JavaScript.

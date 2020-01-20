@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 33
+
+Edge AI: Lesson 4 Inference Engine
+
+**Link of the day**
+
+Do you know, that you can use your favorite editor online? Visual Studio Online https://online.visualstudio.com/ (an article with the description https://docs.microsoft.com/en-us/visualstudio/online/quickstarts/browser)
+
+**Quote of the day:**
+
+*"No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first."* — Andrew Hunt
+
+---
+
 ### Day 32
 
 Edge AI: Finished lesson 3.

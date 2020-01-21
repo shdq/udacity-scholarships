@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 34
+
+Edge AI: I've been working with the rest of lesson 4 today.
+
+**Link of the day**
+
+Free e-book "Effective DevOps — Building a DevOps Culture at Scale" https://azure.microsoft.com/en-us/resources/effective-devops/
+
+**Quote of the day:**
+
+*"The trick is to fix the problem you have, rather than the problem you want"* — Bram Cohen
+
+---
+
 ### Day 33
 
 Edge AI: Lesson 4 Inference Engine

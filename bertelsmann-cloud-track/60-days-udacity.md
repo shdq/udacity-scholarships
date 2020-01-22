@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 35
+
+Made last touches to my article and I've started a new coding project today.
+
+**Link of the day**
+
+Hemingway App makes your writing bold and clear http://www.hemingwayapp.com/
+
+**Quote of the day:**
+
+*"Time can be an ally or an enemy. What it becomes depends entirely upon you, your goals, and your determination to use every available minute."* — Zig Ziglar
+
+---
+
 ### Day 34
 
 Edge AI: I've been working with the rest of lesson 4 today.

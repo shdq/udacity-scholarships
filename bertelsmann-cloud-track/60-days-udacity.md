@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 36
+
+I've revisited all the lesson quizzes because of that "Not submitted" bug, I thought that missed something.
+
+**Link of the day**
+
+GitHub now helps you find good first issues to start contributing to open source through https://github.com/topics
+
+**Quote of the day:**
+
+*"The most secure code in the world is code which is never written"* — Colin Percival
+
+---
+
 ### Day 35
 
 Made last touches to my article and I've started a new coding project today.

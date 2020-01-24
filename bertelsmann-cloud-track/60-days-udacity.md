@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 37
+
+I've started a new coding project. Considering to put it on AWS.
+
+**Link of the day**
+
+The Coding Sans Software Development Survey of the 2019 https://codingsans.com/uploads/landing/State-of-Software-Development-2019-final2.pdf
+
+**Quote of the day:**
+
+*"There is a big difference between making a simple product and making a product simple."* — Des Traynor
+
+---
+
 ### Day 36
 
 I've revisited all the lesson quizzes because of that "Not submitted" bug, I thought that missed something.

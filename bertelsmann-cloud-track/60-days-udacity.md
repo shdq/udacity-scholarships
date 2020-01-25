@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 38
+
+Edge AI: I've started with lesson 5.
+
+**Link of the day**
+
+Learn JavaScript fundamentals through fun and challenging quizzes https://quiz.typeofnan.dev/
+
+**Quote of the day:**
+
+*"The amateur software engineer is always in search of magic."* — Grady Booch
+
+---
+
 ### Day 37
 
 I've started a new coding project. Considering to put it on AWS.

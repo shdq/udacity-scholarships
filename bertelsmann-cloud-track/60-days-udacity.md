@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 39
+
+Edge AI: Keep working on lesson 5.
+
+**Link of the day**
+
+Understanding Big O Notation via JavaScript https://alligator.io/js/big-o-notation/
+
+**Quote of the day:**
+
+*"The trouble with programmers is that you can never tell what a programmer is doing until it’s too late."* — Seymour Cray
+
+---
+
 ### Day 38
 
 Edge AI: I've started with lesson 5.

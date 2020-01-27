@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 40
+
+I've been coding a microservice to practice containerization and CI / CD.
+
+**Link of the day**
+
+Path to a free self-taught education in Computer Science https://github.com/ossu/computer-science
+
+**Quote of the day:**
+
+*"Be curious. Read widely. Try new things. I think a lot of what people call intelligence boils down to curiosity."* — Aaron Swartz
+
+---
+
 ### Day 39
 
 Edge AI: Keep working on lesson 5.

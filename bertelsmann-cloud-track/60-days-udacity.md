@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 41
+
+I studied IAM policies in clouds today.
+
+**Link of the day**
+
+Want to start contributing to Open Source? This is a list of awesome beginners-friendly projects https://github.com/MunGell/awesome-for-beginners
+
+**Quote of the day:**
+
+*"Those hours of practice, and failure, are a necessary part of the learning process."* — Gina Sipley
+
+---
+
 ### Day 40
 
 I've been coding a microservice to practice containerization and CI / CD.

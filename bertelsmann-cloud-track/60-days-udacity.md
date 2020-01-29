@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 42
+
+Worked on my coding project today.
+
+**Link of the day**
+
+The largest hand-picked list of the best tools for remote work https://standuply.com/330-remote-work-tools
+
+**Quote of the day:**
+
+*"People have an enormous tendency to resist change. They love to say, 'We've always done it this way.' I try to fight that."* — Grace Hopper
+
+---
+
 ### Day 41
 
 I studied IAM policies in clouds today.

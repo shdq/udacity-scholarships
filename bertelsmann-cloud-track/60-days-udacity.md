@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 43
+
+Architecting my microservice project to work with AWS.
+
+**Link of the day**
+
+Bitwarder is an open source password manager https://bitwarden.com/
+
+**Quote of the day:**
+
+*"Anything that can possibly go wrong, will go wrong."* — Murphy's Law
+
+---
+
 ### Day 42
 
 Worked on my coding project today.

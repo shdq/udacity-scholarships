@@ -1,12 +1,26 @@
 # 60 Days of Udacity Challenge
 
+### Day 44
+
+Finished Intel Edge AI Foundation Course
+
+**Link of the day**
+
+Improve focus and boost your productivity. Mix different sounds and create your perfect environment. https://www.noisli.com/
+
+**Quote of the day:**
+
+*"Don’t worry about what anyone else is going to do. The best way to predict the future is to invent it."* — Alan Kay
+
+---
+
 ### Day 43
 
 Architecting my microservice project to work with AWS.
 
 **Link of the day**
 
-Bitwarder is an open source password manager https://bitwarden.com/
+Bitwarden is an open source password manager https://bitwarden.com/
 
 **Quote of the day:**
 

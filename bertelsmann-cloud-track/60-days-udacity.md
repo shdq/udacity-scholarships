@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 45
+
+I explored how to deploy docker containers to AWS https://aws.amazon.com/getting-started/tutorials/deploy-docker-containers/
+
+**Link of the day**
+
+A regex cheatsheet for the haters https://ihateregex.io/
+
+**Quote of the day:**
+
+*"Codes are a puzzle. A game, just like any other game."* — Alan Turing
+
+---
+
 ### Day 44
 
 Finished Intel Edge AI Foundation Course

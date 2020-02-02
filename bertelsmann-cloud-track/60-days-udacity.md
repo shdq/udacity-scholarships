@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 46
+
+It was my offline day, I spent it with my family and the Pragmatic Programmer book which is great btw.
+
+**Link of the day**
+
+Personality Test and get a “freakishly accurate” description of who you are and why you do things the way you do https://www.16personalities.com/
+
+**Quote of the day:**
+
+*"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."* — Patrick McKenzie
+
+---
+
 ### Day 45
 
 I explored how to deploy docker containers to AWS https://aws.amazon.com/getting-started/tutorials/deploy-docker-containers/

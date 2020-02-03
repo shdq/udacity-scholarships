@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 47
+
+Revisited lesson 23 about storage and DBs.
+
+**Link of the day**
+
+OctoLinker is a browser extension for GitHub, that turns language-specific statements like include require or import into links. https://octolinker.now.sh/
+
+**Quote of the day:**
+
+*"Sometimes it's better to leave something alone, to pause, and that's very true of programming."* — Joyce Wheeler
+
+---
+
 ### Day 46
 
 It was my offline day, I spent it with my family and the Pragmatic Programmer book which is great btw.

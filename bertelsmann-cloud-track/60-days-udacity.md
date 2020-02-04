@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 48
+
+Revisited lesson 22, servers and security groups.
+
+**Link of the day**
+
+Build a job-winning resume for free https://flowcv.io/
+
+**Quote of the day:**
+
+*"And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do."* — Vint Cerf
+
+---
+
 ### Day 47
 
 Revisited lesson 23 about storage and DBs.

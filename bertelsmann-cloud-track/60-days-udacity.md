@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 49
+
+Exploring React UI libraries and worked on my coding project today.
+
+**Link of the day**
+
+This is an opinionated catalog of open source JS packages https://js.coach/
+
+**Quote of the day:**
+
+*"If it doesn’t work, it doesn’t matter how fast it doesn’t work."* — Mich Ravera
+
+---
+
 ### Day 48
 
 Revisited lesson 22, servers and security groups.

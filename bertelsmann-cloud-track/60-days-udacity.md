@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 50
+
+I revisited every course lesson to check the completion of the quizzes. I suggest you do the same because you need 100% completion.
+
+**Link of the day**
+
+Codewars is an educational community where software developers train on programming challenges known as kata https://www.codewars.com/
+
+**Quote of the day:**
+
+*"Memory leaks are like water leaks: they happen when you least expect it, take hours to locate and make you wish you had spent more time protecting your valuables."* — Fred Heath
+
+---
+
 ### Day 49
 
 Exploring React UI libraries and worked on my coding project today.

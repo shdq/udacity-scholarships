@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 51
+
+Dockering MongoDB for my microservice today.
+
+**Link of the day**
+
+Short code snippets for all your development needs https://www.30secondsofcode.org/
+
+**Quote of the day:**
+
+*"The sooner you start to code, the longer the program will take."* — Roy Carlson
+
+---
+
 ### Day 50
 
 I revisited every course lesson to check the completion of the quizzes. I suggest you do the same because you need 100% completion.

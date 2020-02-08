@@ -1,5 +1,20 @@
 # 60 Days of Udacity Challenge
 
+
+### Day 52
+
+Exploring ways to deploy static sites. Code my project.
+
+**Link of the day**
+
+LeetCode is a platform to help you enhance your skills, expand your knowledge and prepare for technical interviews https://leetcode.com/
+
+**Quote of the day:**
+
+*"Falling in love with code means falling in love with problem solving and being a part of a forever ongoing conversation."* — Kathryn Barrett
+
+---
+
 ### Day 51
 
 Dockering MongoDB for my microservice today.

@@ -1,5 +1,18 @@
 # 60 Days of Udacity Challenge
 
+### Day 53
+
+I've started to revisit Intel Edge AI course from the start.
+
+**Link of the day**
+
+These are the most hearted Pens of 2019 at codepen.io. https://codepen.io/2019/popular/pens/
+
+**Quote of the day:**
+
+*"Programming is not about typing, it's about thinking."* — Rich Hickey
+
+---
 
 ### Day 52
 

@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 54
+
+Revisited lesson 2 of the Intel Edge AI course.
+
+**Link of the day**
+
+Learn X in Y minutes. Take a whirlwind tour of your next favorite language. https://learnxinyminutes.com/
+
+**Quote of the day:**
+
+*"First do it, then do it right, then do it better."* — Addy Osmani
+
+---
+
 ### Day 53
 
 I've started to revisit Intel Edge AI course from the start.

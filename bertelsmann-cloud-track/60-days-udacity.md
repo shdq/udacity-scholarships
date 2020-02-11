@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 55
+
+Revisited lesson 3 of the Intel Edge AI course.
+
+**Link of the day**
+
+Transform any hands-drawn design into a HTML code with AI https://sketch2code.azurewebsites.net/
+
+**Quote of the day:**
+
+*"Just because you've implemented something doesn't mean you understand it."* — Brian Cantwell Smith
+
+---
+
 ### Day 54
 
 Revisited lesson 2 of the Intel Edge AI course.

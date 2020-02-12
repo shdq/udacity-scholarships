@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 56
+
+Watched talks from AWS re:Invent 2019 conference today
+
+**Link of the day**
+
+Visualization of all roads within any city https://anvaka.github.io/city-roads/
+
+**Quote of the day:**
+
+*"A computer is like a mischievous genie. It will give you exactly what you ask for, but not always what you want."* — Joe Sondow
+
+---
+
 ### Day 55
 
 Revisited lesson 3 of the Intel Edge AI course.

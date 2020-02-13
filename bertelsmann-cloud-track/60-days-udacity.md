@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 57
+
+Explored security groups for EC2.
+
+**Link of the day**
+
+Challenging projects every programmer should try http://web.eecs.utk.edu/~azh/blog/challengingprojects.html
+
+**Quote of the day:**
+
+*"Later equals never."* — Le Blanc's law
+
+---
+
 ### Day 56
 
 Watched talks from AWS re:Invent 2019 conference today

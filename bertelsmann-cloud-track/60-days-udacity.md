@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 58
+
+Revisited lesson about RDS and S3.
+
+**Link of the day**
+
+The ultimate bash cheatsheet https://shellmagic.xyz
+
+**Quote of the day:**
+
+*"Deleted code is debugged code."* — Jeff Sickel
+
+---
+
 ### Day 57
 
 Explored security groups for EC2.

@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 59
+
+Revisited Storage and Databases lesson and studied about Bucket policies.
+
+**Link of the day**
+
+LegraJS lets you draw using LEGO like brick shapes https://github.com/pshihn/legra. Look at Mona Lisa https://legra-monalisa.glitch.me/
+
+**Quote of the day:**
+
+*"Java is to JavaScript what Car is to Carpet."* — Chris Heilmann
+
+---
+
 ### Day 58
 
 Revisited lesson about RDS and S3.

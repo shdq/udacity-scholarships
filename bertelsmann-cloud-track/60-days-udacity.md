@@ -1,5 +1,19 @@
 # 60 Days of Udacity Challenge
 
+### Day 60
+
+Revisited all the lessons to make sure I did all the quizzez. The 60 days challenge is finished! Thank you all @here
+
+**Link of the day**
+
+Find the right commands you need without digging through the web. https://gitexplorer.com/
+
+**Quote of the day:**
+
+*"We build our computer systems the way we build our cities: over time, without a plan, on top of ruins."* — Ellen Ullman
+
+---
+
 ### Day 59
 
 Revisited Storage and Databases lesson and studied about Bucket policies.
